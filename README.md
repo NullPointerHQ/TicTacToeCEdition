@@ -5,7 +5,7 @@
 
 # 👋Introduction
 ### Project Objectives
-This project was made when I was learning the C language as well as the basics of programming, it is outdated now as I have both improved my skills as a programmer as well as moved to different languages, even recreating this project in [Python](https://github.com/NullPointerHQ/TicTacToePythonEdition). As the name implies this project simulates a game of Tic-Tac-Toe.
+This project was made when I was learning the C language as well as the basics of programming in my Programming 1 course. It is outdated now as I have both improved my skills as a programmer as well as moved to different languages, even recreating this project in [Python](https://github.com/NullPointerHQ/TicTacToePythonEdition). As the name implies this project simulates a game of Tic-Tac-Toe. It should also be noted that I was provided a basic skeleton however the majority of the program is of my own design.
 ### Universal Prerequisites
   - Language Used: C
   - IDE: [Microsoft's Visual Studio](https://visualstudio.microsoft.com/#vs-section)
